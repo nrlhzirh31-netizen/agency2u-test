@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktm_agent_management_system_admin"]=self["webpackChunktm_agent_management_system_admin"]||[]).push([[7385],{7385:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("router-view")],1)},r=[],u={name:"ProductView",components:{},props:{},data(){return{}},created(){},mounted(){},computed:{},watch:{},methods:{},beforeDestroy(){}},m=u,s=n(1001),o=(0,s.Z)(m,a,r,!1,null,"16e3dd35",null),c=o.exports}}]);
+//# sourceMappingURL=7385.677731c0.js.map

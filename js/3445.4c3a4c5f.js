@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktm_agent_management_system_admin"]=self["webpackChunktm_agent_management_system_admin"]||[]).push([[3445],{3445:function(e,t,n){n.r(t),n.d(t,{default:function(){return o}});var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("router-view")],1)},r=[],m={name:"BankView",components:{},props:{},data(){return{}},created(){},mounted(){},computed:{},watch:{},methods:{},beforeDestroy(){}},s=m,u=n(1001),c=(0,u.Z)(s,a,r,!1,null,"e7cdfed4",null),o=c.exports}}]);
+//# sourceMappingURL=3445.4c3a4c5f.js.map

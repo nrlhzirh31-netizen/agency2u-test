@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktm_agent_management_system_admin"]=self["webpackChunktm_agent_management_system_admin"]||[]).push([[1034],{1034:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("router-view")],1)},r=[],m={name:"CustomerApplicationView",components:{},props:{},data(){return{}},created(){},mounted(){},computed:{},watch:{},methods:{},beforeDestroy(){}},s=m,u=n(1001),o=(0,u.Z)(s,a,r,!1,null,"237f2d68",null),c=o.exports}}]);
+//# sourceMappingURL=1034.67961302.js.map
