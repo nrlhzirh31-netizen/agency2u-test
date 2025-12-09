@@ -1,0 +1,8 @@
+# Browsers that we support
+# browsers versions selected by global usage statistics
+# the last 2 versions for each browser
+# browsers without official support or updates for 24 months
+
+> 1%
+last 2 versions
+not dead

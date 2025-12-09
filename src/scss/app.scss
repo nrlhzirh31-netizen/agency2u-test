@@ -1,0 +1,147 @@
+.v-text-field--outlined.v-input--is-focused fieldset,
+.v-text-field--outlined.v-input--has-state fieldset,
+.v-text-field--outlined fieldset {
+  border-width: 0px;
+}
+/*
+.v-list-item--dense .v-list-item__title,
+.v-list-item--dense .v-list-item__subtitle,
+.v-list--dense .v-list-item .v-list-item__title,
+.v-list--dense .v-list-item .v-list-item__subtitle {
+  font-size: 12px !important;
+  text-align: left;
+}*/
+
+.v-text-field > .v-input__control > .v-input__slot:before,
+.v-text-field > .v-input__control > .v-input__slot:after {
+  display: none;
+}
+:root {
+  --glassy: rgba(0, 0, 0, 0.85);
+  --grey-text: #a6a6a6;
+}
+
+.theme--dark .layout-public {
+  background-color: unset !important;
+}
+
+.v-application p {
+  margin-bottom: 0;
+}
+
+.p-relative {
+  position: relative;
+}
+
+.p-absolute {
+  position: absolute;
+}
+
+.left-0 {
+  left: 0;
+}
+
+.right-0 {
+  right: 0;
+}
+
+.non-clickable {
+  cursor: not-allowed !important;
+}
+
+.check-box-input {
+  .v-label {
+    font-size: 0.75rem !important;
+  }
+}
+
+.status-bar > .active-status > span {
+  color: black !important;
+}
+
+.v-data-table > .v-data-table__wrapper > table > tbody > tr > td,
+.v-data-table > .v-data-table__wrapper > table > tbody > tr > th,
+.v-data-table > .v-data-table__wrapper > table > thead > tr > td,
+.v-data-table > .v-data-table__wrapper > table > thead > tr > th,
+.v-data-table > .v-data-table__wrapper > table > tfoot > tr > td,
+.v-data-table > .v-data-table__wrapper > table > tfoot > tr > th {
+  padding: 0 6px !important;
+}
+
+.v-data-table > .v-data-table__wrapper > table > tbody > tr > td {
+  color: var(--v-baseColor-base);
+}
+
+.v-data-table > .v-data-table__wrapper > table > thead > tr > th {
+  font-weight: bold;
+}
+
+.report-table > .v-data-table__wrapper > table {
+  min-width: 2000px;
+}
+
+.report-table-xl > .v-data-table__wrapper > table {
+  min-width: 2300px;
+}
+
+.v-input--switch--inset .v-input--switch__track,
+.v-input--switch--inset .v-input--selection-controls__input {
+  width: 30px !important;
+}
+
+.v-application--is-ltr .v-input--switch.v-input--dense .v-input--selection-controls__ripple {
+  left: -14px !important;
+}
+
+.v-input--switch.v-input--dense .v-input--selection-controls__ripple {
+  top: calc(50% - 24px) !important;
+}
+
+.v-application--is-ltr .v-input--selection-controls__input {
+  margin-right: 0 !important;
+}
+
+.v-application .input-label{
+  font-weight: bold;
+  color: black
+}
+
+.expended-header,
+.row-total {
+  background-color: var(--v-primary-lighten1) !important;
+}
+
+.button-link {
+  text-decoration: underline;
+  text-transform: capitalize;
+  min-width: unset !important;
+
+  &::before {
+    transition: unset;
+  }
+
+  &:hover::before {
+    background-color: unset;
+  }
+
+  .v-icon {
+    margin-right: 2px !important;
+  }
+
+  .v-icon__component {
+    height: 12px;
+    width: 12px;
+  }
+}
+
+.date-group--hover::before {
+  opacity: 0.08;
+}
+
+.draggable {
+  cursor: move;
+}
+
+.price-heading {
+  font-size: 1.1rem;
+}

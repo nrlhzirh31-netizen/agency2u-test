@@ -1,0 +1,22 @@
+#  Template NodeJS build
+
+#  This template allows you to validate your NodeJS code.
+#  The workflow allows running tests and code linting on the default branch.
+
+image: node:17
+
+pipelines:
+  branches:
+    master:
+      - step:
+          name: Deploy to production
+          deployment: production
+          # trigger: manual  # Uncomment to make this a manual deployment.
+          script:
+            - echo "Deploying to production environment"
+            - pipe: atlassian/ssh-run:0.2.2
+              variables:
+                SSH_USER: $SSH_USER
+                SERVER: $SERVER_IP
+                COMMAND: '/var/www/vhosts/agency2u.com.my/admin-deployment.sh'
+                PORT: $SERVER_PORT
