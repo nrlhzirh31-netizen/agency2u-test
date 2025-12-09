@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktm_agent_management_system_admin"]=self["webpackChunktm_agent_management_system_admin"]||[]).push([[5283],{5283:function(e,t,n){n.r(t),n.d(t,{default:function(){return c}});var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("router-view")],1)},r=[],s={name:"AnsuranCommissionRateView",components:{},props:{},data(){return{}},created(){},mounted(){},computed:{},watch:{},methods:{},beforeDestroy(){}},m=s,u=n(1001),o=(0,u.Z)(m,a,r,!1,null,"0f286d32",null),c=o.exports}}]);
+//# sourceMappingURL=5283.b7bbfd05.js.map

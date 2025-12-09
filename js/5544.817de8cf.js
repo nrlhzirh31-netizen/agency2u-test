@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktm_agent_management_system_admin"]=self["webpackChunktm_agent_management_system_admin"]||[]).push([[5544],{5544:function(e,t,n){n.r(t),n.d(t,{default:function(){return o}});var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("router-view")],1)},r=[],s={name:"AnsuranApplicationView",components:{},props:{},data(){return{}},created(){},mounted(){},computed:{},watch:{},methods:{},beforeDestroy(){}},u=s,m=n(1001),c=(0,m.Z)(u,a,r,!1,null,"c746627a",null),o=c.exports}}]);
+//# sourceMappingURL=5544.817de8cf.js.map

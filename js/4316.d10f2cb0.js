@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunktm_agent_management_system_admin"]=self["webpackChunktm_agent_management_system_admin"]||[]).push([[4316],{4316:function(e,t,n){n.r(t),n.d(t,{default:function(){return i}});var a=function(){var e=this,t=e.$createElement,n=e._self._c||t;return n("div",[n("router-view")],1)},r=[],s={name:"AnsuranClaimSubmissionView",components:{},props:{},data(){return{}},created(){},mounted(){},computed:{},watch:{},methods:{},beforeDestroy(){}},m=s,u=n(1001),o=(0,u.Z)(m,a,r,!1,null,"af3b5750",null),i=o.exports}}]);
+//# sourceMappingURL=4316.d10f2cb0.js.map
